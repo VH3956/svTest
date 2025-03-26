@@ -11,7 +11,7 @@ pipeline {
     environment {
         REPO_URL = 'https://github.com/VH3956/svTest.git'
         BRANCH_NAME = "${params.BRANCH_NAME}"
-        IMAGE_NAME = 'ntquan87/VH22127125'
+        IMAGE_NAME = 'ntquan87/ndvh'
     }
 
 
